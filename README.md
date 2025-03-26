@@ -1,9 +1,11 @@
 # 💫 Sobre mim:
 👋 Olá, sou @Lydson!<br><br>
-🚀 Sou apaixonado por desenvolvimento web e estou em busca de uma oportunidade como Desenvolvedor Front-End Júnior. Tenho formação em Administração e conclui um curso de 2,5 anos em Tecnologia em Sistemas para Internet. Além disso, me especializei em Figma, HTML, CSS, JavaScript e React.<br><br>
-💡 Atualmente, estou aprofundando meus conhecimentos em React, React Native e análise de dados, incluindo SQL, Tableau e Python, sempre focando na aplicação prática das minhas habilidades.<br><br>
+🚀 Sou apaixonado por desenvolvimento web. Tenho formação em Administração pela Universidade Federal de Viçosa e conclui um curso de Tecnologia em Sistemas para Internet pelo Senac. Além disso, me especializei em Figma, HTML, CSS, JavaScript e React.<br><br>
+💡 Atualmente, estou aprofundando meus conhecimentos em React, React Native e análise de dados, incluindo SQL, Tableau e Python, sempre focando na aplicação prática das minhas habilidades. Dados é outra área que gosto muito e espero combinar ele com web em um futuro próximo junto com os meus conhecimentos de finanças e Excel.<br><br>
 🤝 Busco colaborar em pequenos projetos para ganhar experiência prática e aprimorar minhas habilidades no desenvolvimento front-end.<br><br>
-📬 Entre em contato comigo:<br>✉️ Email: lydsonsanmiguel@gmail.com<br>🔗 LinkedIn: https://www.linkedin.com/in/lydson
+📬 Entre em contato comigo:<br>
+✉️ Email: lydsonsanmiguel@gmail.com<br>
+🔗 LinkedIn: https://www.linkedin.com/in/lydson
 
 
 ## 🌐 Social:
