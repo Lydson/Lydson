@@ -1,8 +1,12 @@
-# 💫 Sobre mim:
-👋 Olá, sou @Lydson!<br><br>
-🚀 Sou apaixonado por desenvolvimento web. Tenho formação em Administração pela Universidade Federal de Viçosa e conclui um curso de Tecnologia em Sistemas para Internet pelo Senac. Além disso, me especializei em Figma, HTML, CSS, JavaScript e React.<br><br>
-💡 Atualmente, estou aprofundando meus conhecimentos em React, React Native e análise de dados, incluindo SQL, Tableau e Python, sempre focando na aplicação prática das minhas habilidades. Dados é outra área que gosto muito e espero combinar ele com web em um futuro próximo junto com os meus conhecimentos de finanças e Excel.<br><br>
-🤝 Busco colaborar em pequenos projetos para ganhar experiência prática e aprimorar minhas habilidades no desenvolvimento front-end.<br><br>
+👋 Olá, sou o Lydson!
+
+📊 Sou formado em Administração (UFV) e em Tecnologia em Sistemas para Internet (Senac), com experiência em análise de informações, controle financeiro e uso de dados para apoiar decisões. Atualmente atuo na área de auditoria e estou em transição para Análise de Dados e BI, com foco em finanças.
+
+💡 Tenho trabalhado com SQL, Excel e Power BI, desenvolvendo análises, relatórios e dashboards. No momento, estou aprofundando meus conhecimentos em Business Intelligence com cursos da Maven Analytics, além de estudar Python para análise de dados. Meu objetivo é transformar dados financeiros e operacionais em insights claros e acionáveis.
+
+💻 Também possuo base em desenvolvimento web (HTML, CSS, JavaScript, React), o que me ajuda a ter uma visão mais técnica de sistemas, dados e processos.
+
+🤝 Busco colaborar em projetos de análise de dados, BI e finanças, especialmente aqueles que envolvem organização de dados, visualizações e tomada de decisão.
 📬 Entre em contato comigo:<br>
 ✉️ Email: lydsonsanmiguel@gmail.com<br>
 🔗 LinkedIn: https://www.linkedin.com/in/lydson
